@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Android Boot Manager page
+Android boot manager is new dualboot way for android. There was much of them before, such as: EFIDroid, MultiROM, Dualboot patcher, etc. Usually they reflashed boot dynamicly for dualbooting. Some of them used one big hack like MultiROM's kexek-hardboot.
 
-You can use the [editor on GitHub](https://github.com/Android-Boot-Manager/Android-Boot-Manager.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## How dose Android Boot Manager work?
+Android boot manager uses lk2nd flashed to boot partition for loading device tree, kernel and ramdisk. And android app with sh scripts and pre-compiled binary for easy rom managment.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Current status
+For now project is in pre-alfa stage. Actively developed.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Android-Boot-Manager/Android-Boot-Manager.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Devices 
+For now this is developed for Motorola Moto G5 (cedric). But a bit later i will create porting guide.
