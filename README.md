@@ -1,3 +1,4 @@
+# Android Boot Manager
 ## Welcome to Android Boot Manager page
 Android Boot Manager is a new dualboot tool for Android. There were many of them before, such as: EFIDroid, MultiROM, Dualboot patcher, etc. Usually they reflashed boot dynamically for dualbooting. Some of them used one big hack like MultiROM's kexec-hardboot.
 
