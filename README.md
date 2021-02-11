@@ -18,6 +18,7 @@ This solution however also requires the most porting work as it needs to be rewr
 This is an good solution:
 - It uses an bootloader software designed for booting the Linux kernel
 - It doesn't need to reboot twice to start an OS, unlike the third solution.
+
 But it has a few disadvantages:
 - The 2nd-stage bootloader is in the boot partition. This means it gets overwritten very often.
 - This is only possible with older (non-UEFI) qualcomms for now.
@@ -27,6 +28,7 @@ This is the worst solution:
 - This needs to reboot twice when booting an OS (first to the menu, then to the OS)
 - It reflashes boot. This is slow.
 - It still lives in the boot image so it's getting easily overwritten.
+
 Though it also has a few advantages:
 - It's way easier to port
 - It supports touchscreen
