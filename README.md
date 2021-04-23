@@ -36,7 +36,7 @@ Though it also has a few advantages:
 ## How can I use it?
 Currently, only the Volla Phone is ready to use.
 You probably want to join our group on Telegram: https://t.me/andbootmgr.
-An proper guide will be created soon.
+Anyways, here is our wiki: https://wiki.abmanager.tech
 
 ## How can I port it?
 Currently, your best bet is our Telegram group: https://t.me/andbootmgr
