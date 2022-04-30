@@ -36,12 +36,12 @@ Though it also has a few advantages:
 ## How can I use it?
 Currently, only the Volla Phone is ready to use.
 
-You might want to join our group on Telegram: https://t.me/andbootmgr
+You might want to join [our group on Telegram](https://t.me/andbootmgr).
 
-Technical information is available on our wiki: https://wiki.abmanager.tech
+Technical information is available [on our wiki](https://wiki.abmanager.tech).
 
 ## How can I port it?
-Currently, your best bet is our Telegram group: https://t.me/andbootmgr
+Currently, your best bet is [our Telegram group](https://t.me/andbootmgr).
 
 ## Current status
 This project is in the beta status. All devices except the Volla Phone are in the pre-alpha status.
